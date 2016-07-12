@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "读书笔记：《佛学概论》"
+title:  "《佛学概论》"
 categories: blog
 description: 读书笔记
 image: Buddhism.jpg
