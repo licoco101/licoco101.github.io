@@ -67,9 +67,12 @@ image: Buddhism.jpg
 > According to Buddhism, human being have free will, and in the exercise of free will they engage in self-determination. 
 
 
-##四圣谛
+## 四圣谛
+
 佛教的终极目标是结束苦难和轮回转生
+
 ###涅槃是善与智的融合
+
 #### 苦谛：苦是人生本质
 > 生苦，病苦，老苦，死苦。怨憎会苦。恩爱别离苦，所欲不得苦。
 
