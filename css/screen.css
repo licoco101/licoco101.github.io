@@ -391,7 +391,7 @@ body.noimage {
 }
 article {
     margin: 65px auto 0 auto;
-    padding: 0 30px;
+    padding: 0 15px;
     max-width: 680px;
     text-align: left
 }
@@ -548,22 +548,22 @@ article .text h1, article .text h2, article .text h3, article .text h4, article 
     text-align: left
 }
 article .text h1 {
-    font-size: 30px
+    font-size: 26px
 }
 article .text h2 {
-    font-size: 28px
-}
-article .text h3 {
-    font-size: 20px
-}
-article .text h4 {
-    font-size: 24px
-}
-article .text h5 {
     font-size: 22px
 }
+article .text h3 {
+    font-size: 18px
+}
+article .text h4 {
+    font-size: 16px
+}
+article .text h5 {
+    font-size: 14px
+}
 article .text h6 {
-    font-size: 20px
+    font-size: 14px
 }
 article .text img {
     display: block;
