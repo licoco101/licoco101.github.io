@@ -551,13 +551,13 @@ article .text h1 {
     font-size: 26px
 }
 article .text h2 {
-    font-size: 22px
-}
-article .text h3 {
     font-size: 18px
 }
-article .text h4 {
+article .text h3 {
     font-size: 16px
+}
+article .text h4 {
+    font-size: 14px
 }
 article .text h5 {
     font-size: 14px
