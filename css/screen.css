@@ -612,7 +612,7 @@ article .text ul, article .text ol, article .text dl {
 }
 article .text ul li, article .text ol li, article .text dl li {
     margin: 14px 14px;
-    line-height: 1.5em
+    line-height: 2em
 }
 article .text ul ul {
     list-style-type: square
