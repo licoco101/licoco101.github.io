@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "《持续的幸福》"
+categories: blog
+description: 读书笔记
+image: happiness.jpg
+---
+
 #持续的幸福
 
 ## 积极心理学的诞生
