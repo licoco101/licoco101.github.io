@@ -1,18 +1,18 @@
 # Site settings
-title:            "蛋要慢慢煎" # 添加博客标题
-author:           煎蛋 # 添加你的名字
+title:            "小猫" # 添加博客标题
+author:           凶萌 # 添加你的名字
 avatar:           avatar.png # 添加你的头像
 favicon:          favicon.ico # 添加用于显示于浏览器 Tab 上的博客图标
 logo:             false
-email:            17374383@qq.com
+email:            kitty@163.com
 description: >    # 主题简介，可改为博客描述
-              慢慢煎的蛋，才能外焦里嫩
+              
 
-url:              "/omelettezhang.github.io" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
+url:              "/licoco101.github.io" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
 twitter:          # 添加你的 Twitter 用户名
-github:           omelettezhang # 添加你的 GitHub 用户名
+github:           licoco101 # 添加你的 GitHub 用户名
 disqus:           # 添加你的 Disqus 评论工具站点名
 
 permalink:        pretty
